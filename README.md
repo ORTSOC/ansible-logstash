@@ -1,2 +1,2 @@
 # ansible-logstash
-ORTSOC Infra Playbook: Logstash
+ORTSOC Infra Role: Logstash
